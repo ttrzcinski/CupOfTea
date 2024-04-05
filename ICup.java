@@ -1,6 +1,6 @@
 package com.ttrzcinski;
 
-public interface iCup {
+public interface ICup {
 
     boolean isIcon();
 

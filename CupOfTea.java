@@ -2,13 +2,14 @@ package com.ttrzcinski;
 
 class CupOfTea {
 
-    iCup getCup() {
+    ICup getCup() {
         return null;
     }
-    iLiquid getLiquid() {;
+    ILiquid getLiquid() {
         return null;
     }
-    iBag getBag() {;
+
+    IBag getBag() {
         return null;
     }
 
@@ -18,7 +19,7 @@ class CupOfTea {
 
     public class CupOfTeaBuilder {
 
-        public iCupBaseStep withCup(iCup cup) {
+        public ICupBaseStep withCup(Cup cup) {
             // TODO Auto-generated method stub
             return null;
         }

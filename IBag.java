@@ -1,6 +1,6 @@
 package com.ttrzcinski;
 
-public interface iBag {
+public interface IBag {
 
     void setTaste(String taste);
 

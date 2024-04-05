@@ -1,5 +1,5 @@
 package com.ttrzcinski;
 
-public interface iBuildStep {
+public interface IBuildStep {
     CupOfTea build();
 }

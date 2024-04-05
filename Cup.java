@@ -1,6 +1,6 @@
 package com.ttrzcinski;
 
-public class Cup implements iCup {
+public class Cup implements ICup {
 
     private boolean icon;
 

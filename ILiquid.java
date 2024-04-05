@@ -1,6 +1,6 @@
 package com.ttrzcinski;
 
-public interface iLiquid {
+public interface ILiquid {
 
     Color getColor();
 

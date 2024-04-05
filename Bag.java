@@ -1,6 +1,6 @@
 package com.ttrzcinski;
 
-public class Bag implements iBag {
+public class Bag implements IBag {
 
     private String taste;
 
